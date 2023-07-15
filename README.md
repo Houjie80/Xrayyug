@@ -1,8 +1,8 @@
 # aio
-- `Update !!! Add DNS Setting`
-- `Note !!! for multipath please change to Xray-core mod in menu script`
+- `Update Add DNS Setting`
+- `Catatan Untuk Multipath Ganti Ke Xray-Core Mod di menu script`
 # Required
-- DOMAIN (MUST)
+- DOMAIN (Wajib)
 - DEBIAN 9/10
 - Ubuntu 18/20 LTS
 - CPU MIN 1 CORE
