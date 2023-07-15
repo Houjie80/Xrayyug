@@ -1,7 +1,7 @@
 # WingsRay
 
 # Required
-- DOMAIN (MUST)
+- DOMAIN (Wajib)
 - DEBIAN 9/10
 - Ubuntu 18/20 LTS
 - CPU MIN 1 CORE
