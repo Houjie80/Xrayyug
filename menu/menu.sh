@@ -33,7 +33,7 @@ DATE=$(date -R | cut -d " " -f -4)
 MYIP=$(curl -sS ipv4.icanhazip.com)
 clear
 echo -e "${MB}————————————————————————————————————————————————————————${NC}"
-echo -e "               ${WB}----- [ Xray Script ] -----${NC}              "
+echo -e "               ${GB}      [ Xray Script ]      ${NC}              "
 echo -e "${MB}————————————————————————————————————————————————————————${NC}"
 echo -e " ${GB}Public IP${NC}        ${GB}: $MYIP"
 echo -e " ${GB}Service Provider${NC} ${GB}: $ISP"
