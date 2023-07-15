@@ -1,4 +1,4 @@
-# WingsRay
+# Wings Ray
 
 # Required
 - DOMAIN (Wajib)
